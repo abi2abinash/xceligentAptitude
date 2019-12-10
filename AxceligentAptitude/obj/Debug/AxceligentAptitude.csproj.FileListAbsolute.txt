@@ -1,0 +1,7 @@
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\obj\Debug\AxceligentAptitude.csprojAssemblyReference.cache
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\obj\Debug\AxceligentAptitude.csproj.CoreCompileInputs.cache
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\bin\Debug\AxceligentAptitude.exe.config
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\bin\Debug\AxceligentAptitude.exe
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\bin\Debug\AxceligentAptitude.pdb
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\obj\Debug\AxceligentAptitude.exe
+C:\Users\X162997\source\repos\AxceligentAptitude\AxceligentAptitude\obj\Debug\AxceligentAptitude.pdb
